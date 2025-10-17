@@ -1,2 +1,0 @@
-# MonsterHub.
-Script para Delta
